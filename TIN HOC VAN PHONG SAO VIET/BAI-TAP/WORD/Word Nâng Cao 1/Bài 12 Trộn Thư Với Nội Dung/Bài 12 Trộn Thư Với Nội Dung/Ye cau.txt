@@ -1,0 +1,1 @@
+Yêu cầu: Sử dụng chức năng trộn thư trong văn bản để tạo GIẤY BÁO ĐIỂM hàng loạt và xuất ra file PDF

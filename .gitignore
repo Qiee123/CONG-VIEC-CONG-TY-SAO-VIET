@@ -1,0 +1,16 @@
+# Microsoft Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+~$*.dotx
+~$*.xlsm
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temp folders
+.gemini/
+*.tmp
+
