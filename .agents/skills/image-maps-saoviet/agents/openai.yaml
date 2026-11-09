@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Maps Sao Việt"
+  short_description: "Tạo bài Google Maps Tin học văn phòng theo local"
+  default_prompt: "Dùng $image-maps-saoviet để tạo bài Google Maps hôm nay phù hợp nhất cho chi nhánh Dĩ An."

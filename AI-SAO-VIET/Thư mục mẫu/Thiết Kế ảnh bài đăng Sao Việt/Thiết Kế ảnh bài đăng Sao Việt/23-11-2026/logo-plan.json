@@ -1,0 +1,34 @@
+{
+  "logo": ".agents\\skills\\design-image-saoviet\\assets\\logo-sao-viet.png",
+  "images": [
+    {
+      "name": "page-1-tinhoc-nguoidilam-dian.png",
+      "position": "top-left",
+      "widthRatio": 0.15,
+      "paddingRatio": 0.025,
+      "cleanPatch": true
+    },
+    {
+      "name": "page-2-autocad-xaydung-dian.png",
+      "position": "top-right",
+      "widthRatio": 0.15,
+      "paddingRatio": 0.025,
+      "cleanPatch": true
+    },
+    {
+      "name": "page-3-ketoan-excel-dian.png",
+      "position": "top-left",
+      "widthRatio": 0.15,
+      "paddingRatio": 0.025,
+      "cleanPatch": true
+    },
+    {
+      "name": "page-4-photoshop-retouch-dian.png",
+      "position": "top-right",
+      "widthRatio": 0.15,
+      "paddingRatio": 0.025,
+      "cleanPatch": true
+    }
+  ]
+}
+

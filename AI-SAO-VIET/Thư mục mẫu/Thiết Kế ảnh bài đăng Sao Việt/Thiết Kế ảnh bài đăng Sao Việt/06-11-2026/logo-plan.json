@@ -1,0 +1,29 @@
+{
+  "logo": ".agents\\skills\\design-image-saoviet\\assets\\logo-sao-viet.png",
+  "images": [
+    {
+      "name": "page-1-tinhoc-excel-dian.png",
+      "position": "top-left",
+      "widthRatio": 0.10,
+      "paddingRatio": 0.025
+    },
+    {
+      "name": "page-2-autocad-2d-dian.png",
+      "position": "top-right",
+      "widthRatio": 0.09,
+      "paddingRatio": 0.025
+    },
+    {
+      "name": "page-3-ketoan-thuc-hanh-dian.png",
+      "position": "top-left",
+      "widthRatio": 0.09,
+      "paddingRatio": 0.025
+    },
+    {
+      "name": "page-4-dohoa-quangcao-dian.png",
+      "position": "top-right",
+      "widthRatio": 0.10,
+      "paddingRatio": 0.025
+    }
+  ]
+}

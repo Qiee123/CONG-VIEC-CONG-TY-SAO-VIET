@@ -1,0 +1,33 @@
+﻿{
+    "images":  [
+                   {
+                       "position":  "top-left",
+                       "widthRatio":  0.15,
+                       "paddingRatio":  0.025,
+                       "name":  "page-1-mos-captoc-dian.png",
+                       "cleanPatch":  true
+                   },
+                   {
+                       "position":  "top-right",
+                       "widthRatio":  0.15,
+                       "paddingRatio":  0.025,
+                       "name":  "page-2-autocad-3d-dian.png",
+                       "cleanPatch":  true
+                   },
+                   {
+                       "position":  "top-left",
+                       "widthRatio":  0.15,
+                       "paddingRatio":  0.025,
+                       "name":  "page-3-ketoan-tonghop-bctc-dian.png",
+                       "cleanPatch":  true
+                   },
+                   {
+                       "position":  "top-right",
+                       "widthRatio":  0.15,
+                       "paddingRatio":  0.025,
+                       "name":  "page-4-dohoa-nhandien-thuonghieu-dian.png",
+                       "cleanPatch":  true
+                   }
+               ],
+    "logo":  ".agents\\skills\\design-image-saoviet\\assets\\logo-sao-viet.png"
+}

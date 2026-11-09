@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok Carousel Sao Việt"
+  short_description: "Điều phối carousel cho nhiều kênh Sao Việt"
+  default_prompt: "Dùng $tiktok-carousel-saoviet để tạo batch carousel 9:16 cho các kênh Sao Việt."
+
+policy:
+  allow_implicit_invocation: true

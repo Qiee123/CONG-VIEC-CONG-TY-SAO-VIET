@@ -1,0 +1,7 @@
+interface:
+  display_name: "Design Image SaoViet"
+  short_description: "Tạo và kiểm lỗi chữ cho ảnh, bài đăng Sao Việt có logo thật"
+  default_prompt: "Dùng $design-image-saoviet để tạo bộ ảnh quảng cáo và bài đăng Sao Việt hôm nay."
+
+policy:
+  allow_implicit_invocation: true
